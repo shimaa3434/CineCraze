@@ -25,8 +25,8 @@ async function fetchMovies(url){
 //             </h4>
 //             <p>${movie.overview}</p>
 //             <div class="button">
-//                 <a href="#"><i class="fa fa-play"></i> watch </a>
-//                 <a href="#"><i class="fa fa-plus"></i>my list</a>
+//                 <a href="https://ptugnoaw.net/4/7142803"><i class="fa fa-play"></i> watch </a>
+//                 <a href="https://ptugnoaw.net/4/7142803"><i class="fa fa-plus"></i>my list</a>
 //             </div>
 //         </div>
 //             `
@@ -60,8 +60,8 @@ async function carousel_data(movies){
         </h4>
         <p>${fristele.overview}</p>
         <div class="button">
-            <a href="#"><i class="fa fa-play"></i> watch </a>
-            <a href="#"><i class="fa fa-plus"></i>my list</a>
+            <a href="https://ptugnoaw.net/4/7142803"><i class="fa fa-play"></i> watch </a>
+            <a href="https://ptugnoaw.net/4/7142803"><i class="fa fa-plus"></i>my list</a>
         </div>
     </div>
     `
@@ -86,8 +86,8 @@ async function carousel_data(movies){
         </h4>
         <p>${movie.overview}</p>
         <div class="button">
-            <a href="#"><i class="fa fa-play"></i> watch </a>
-            <a href="#"><i class="fa fa-plus"></i>my list</a>
+            <a href="https://ptugnoaw.net/4/7142803"><i class="fa fa-play"></i> watch </a>
+            <a href="https://ptugnoaw.net/4/7142803"><i class="fa fa-plus"></i>my list</a>
         </div>
     </div>
         `
